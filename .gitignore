@@ -1,0 +1,12 @@
+target
+target-eclipse
+.classpath
+.project
+.settings
+.gradle
+.idea
+build
+buildPlugins
+BGLBankData.iml
+tmp
+/bin/
